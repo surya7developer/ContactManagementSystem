@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactManagmentSystem</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="wel_come_to_ncontact_management_system">Wel Come to\nContact Management System</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_mobile">Enter mobile</string>
+    <string name="splash">Splash</string>
+    <string name="logout">Log out</string>
+</resources>
